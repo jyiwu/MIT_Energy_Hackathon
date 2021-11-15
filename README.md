@@ -1,2 +1,2 @@
 # MIT_Energy_Hackathon
-Business &amp; Energy Analysis for Sterlite Power 
+Business & Energy Analysis for Sterlite Power in 2021 MIT Energy Hackathon Challenge
